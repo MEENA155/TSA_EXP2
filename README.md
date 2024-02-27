@@ -16,11 +16,8 @@ Calculate the polynomial trend values using least square method
 
 End the program
 ### PROGRAM:
-```
-Developed by: P Ramsai
-Reg No: 212221240041
 
-```
+
 ## A - LINEAR TREND ESTIMATION
 ```
 #Trend equation using Linear Equation
